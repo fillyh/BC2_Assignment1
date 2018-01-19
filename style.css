@@ -1,0 +1,50 @@
+.navbar{
+  height:60px;
+  background-color: pink;
+  margin:0;
+}
+
+.hero{
+  height:500px;
+  background-color: grey;
+}
+.h2{
+  margin: 0;
+}
+.box1{
+  height:300px;
+  text-align: center;
+  background-color:pink;
+  border: 1px solid black;
+}
+
+.image{
+background-color: pink;
+height:300px;
+}
+.text{
+  background-color: grey;
+  height:300px;
+}
+
+.image2{
+  background-color: grey;
+  border: 1px solid black;
+  height:300px;
+}
+.image3{
+  background-color: green;
+  border: 1px solid black;
+  height:300px;
+}
+
+.footer{
+  height: 50px;
+  background-color:grey;
+}
+
+.image-small{
+  background-color: black;
+  width:50%;
+  height:300px;
+}
